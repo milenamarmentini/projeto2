@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Impacto do Desmatamento</title>
+    <title>problemas com drogas</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <h1>Impacto do Desmatamento</h1>
-        <img src="cataratas-do-iguacu.jpg" alt="Foto das Cataratas do Iguaçu, um lugar com muitas árvores e mata nativa preservada.">
-        <p>O desmatamento intensifica fenômenos negativos no meio ambiente e na vida das pessoas, afetando enchentes, temperatura e qualidade de vida.</p>
+        <h1>drogas</h1>
+        <img src="foto de dependentes quimicos.">
+        <p>O drogas afeta vidas das pessoas e a qualidade de vida.</p>
         <nav>
             <ul>
                 <li><a href="#problemas">Os Problemas</a></li>
@@ -26,12 +26,12 @@
         <section id="problemas" class="conteudo">
             <h2>Os Problemas</h2>
             <article>
-                <h3>Aumento das enchentes</h3>
-                <p>As árvores absorvem a água da chuva e ajudam na infiltração no solo. Sem vegetação, a água escoa rapidamente, causando enchentes.</p>
+                <h3>Aumento nas drogas</h3>
+                <p>terapia ajufam as pessoas nas drogas.</p>
             </article>
 
             <article>
-                <h3>Calor excessivo e ilhas de calor</h3>
+                <h3drogas essecivas</h3>
                 <p>O desmatamento reduz a evapotranspiração das plantas, elevando a temperatura das cidades e aumentando o efeito das ilhas de calor.</p>
             </article>
 
