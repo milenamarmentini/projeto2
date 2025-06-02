@@ -27,17 +27,17 @@
             <h2>Os Problemas</h2>
             <article>
                 <h3>Aumento nas drogas</h3>
-                <p>terapia ajufam as pessoas nas drogas.</p>
+                <p>terapia ajudam as pessoas nas drogas.</p>
             </article>
 
             <article>
                 <h3drogas essecivas</h3>
-                <p>O desmatamento reduz a evapotranspiração das plantas, elevando a temperatura das cidades e aumentando o efeito das ilhas de calor.</p>
+                <p>O O consumo de drogas lícitas e ilícitas pode causar diversos efeitos colaterais no organismo em curto ou longo prazo .</p>
             </article>
 
             <article>
                 <h3>Redução da qualidade de vida</h3>
-                <p>A destruição das florestas impacta a biodiversidade, aumenta a poluição e reduz o contato com áreas verdes, afetando a saúde mental e respiratória.</p>
+                <p>A .mudanças no apetite e no sono, alterações na frequência cardíaca e na pressão arterial, desenvolvimento de doenças mentais e de outras complicações, como o câncer</p>
             </article>
 
             <a href="https://www.youtube.com/watch?v=ILh7nDEKGqc&pp=ygUXSW1wYWN0byBkbyBEZXNtYXRhbWVudG8%3D" class="cta-button" target="_blank">Como impacta o mundo? <i class="fa-solid fa-arrow-up-right-from-square" style="color: var(--text-color);"></i></a>
@@ -46,18 +46,18 @@
         <section id="consequencias" class="conteudo">
             <h2>Consequências</h2>
             <ul>
-                <li>Aumento das enchentes e erosão do solo</li>
-                <li>Aumento das temperaturas e mudanças climáticas</li>
-                <li>Perda da biodiversidade</li>
-                <li>Redução da qualidade de vida nas cidades</li>
-                <li>Agravamento de problemas de saúde</li>
-                <li>Impacto na economia de comunidades locais</li>
+                <li>Comprometimento da memória</li>
+                <li>Variações de humor</li>
+                <li>Paranoia.</li>
+                
+                
+    
             </ul>
         </section>
 
         <section id="conclusao" class="conteudo">
             <h2>Conclusão</h2>
-            <p>O desmatamento impacta diretamente a vida humana. Para evitar suas consequências, é necessário preservar o meio ambiente, investir em reflorestamento e adotar práticas sustentáveis.</p>
+            <p>O desmatam.</p>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/ILh7nDEKGqc?si=feol6sZCHo1Cg-jQ" title="YouTube video.">
         </section>
 
